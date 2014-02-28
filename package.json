@@ -1,10 +1,10 @@
 {
-  "name": "flat-monokai",
+  "name": "monokai-flat",
   "theme": "syntax",
   "version": "0.2.0",
   "private": true,
   "description": "A monokai theme for the Flat UI Theme",
-  "repository": "https://github.com/gnomus/atom-flat-monokai",
+  "repository": "https://github.com/gnomus/atom-monokai-flat",
   "license": "MIT",
   "engines": {
     "atom": ">0.39.0"
