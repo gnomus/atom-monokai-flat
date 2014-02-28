@@ -1,7 +1,7 @@
 {
   "name": "monokai-flat",
   "theme": "syntax",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "private": true,
   "description": "A monokai theme for the Flat UI Theme",
   "repository": "https://github.com/gnomus/atom-monokai-flat",
